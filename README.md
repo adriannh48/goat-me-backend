@@ -34,6 +34,6 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 composer install
-php atisan migrate
+php artisan migrate
 php -S localhost:8001 -t public
 ```
